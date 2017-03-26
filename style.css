@@ -1,0 +1,85 @@
+body {
+  margin: auto;
+  background-color: lightblue;
+  height: auto;
+  text-align: center;
+}
+
+button {
+  margin: 1%;
+  padding: 1%;
+  border-color: black;
+  width: 20%;
+  height: auto;
+}
+
+button:active {
+  background-color: blue;
+}
+
+.btn {
+  margin: 1%;
+  padding: 1%;
+  border-color: black;
+  width: 20%;
+  height: auto;
+}
+
+btn:active {
+  background-color: blue;
+}
+
+#clear {
+  background-color: red;
+  color: white;
+}
+
+#clear:active {
+  background-color: black;
+}
+
+#clearAll {
+  background-color: blue;
+  color: white;
+}
+
+#clearAll:active {
+  background-color: black;
+}
+
+#equals {
+  background-color: green;
+  height: auto;
+  width: 43%;
+}
+
+#equals:active {
+  background-color: black;
+}
+
+#screen {
+  background-color: lightgreen;
+  text-align: right;
+  width: 95%;
+  height: auto;
+  margin: 2%;
+}
+
+.container {
+  width: auto;
+  height: auto;
+  background-color: gray;
+  padding: 1%;
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+}
+
+footer {
+  background-color: black;
+  margin: 5%;
+  padding: 1%;
+  color: white;
+  height: auto;
+  width: auto;
+}
